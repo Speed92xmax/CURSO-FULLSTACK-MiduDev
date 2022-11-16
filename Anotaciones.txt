@@ -1,0 +1,9 @@
+1- Para iniciar node en un proyecto, se introduce el comando node init -y ( esto para aceptar todo) 
+
+2- Esto crea un fichero .json en el cual estan todos los datos de este proyecto
+
+3- los SCRIPTS son los comando de ordenes los cuales se ejecutaran desde node 
+
+4- Para acceder a algun fichero dentro del proyecto se usa el comando " node (fichero.js)"
+
+5- "NPM RUN" se usa para saber cuales son los scripts dentro del proyecto
